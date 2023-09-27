@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Last Name;First Name;;;
+FN:First Name Last Name
+ORG:e*thirteen
+ADR;TYPE=WORK:City, Country
+TITLE:Job Title
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:+88604-23219005
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:@ethirteen.com
+URL;TYPE=Digital Business Card: https://vcard.ethirteen.com/biggiol
+URL:https://www.ethirteen.com/
+URL;TYPE=Location:https://maps.app.goo.gl/nHpJJsGTVppRn5My7
+URL;TYPE=Website:https://www.ethirteen.com/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:"We are dedicated to designing and engineering cutting-edge solutions for off-road bicycle riders."—California | Germany | Taiwan | UK
+UID:EnBizCard-100011257
+END:VCARD
