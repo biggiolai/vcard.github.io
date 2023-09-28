@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Dubois;George;;;
+FN:George Dubois
+ORG:e*thirteen
+ADR;TYPE=WORK:CA, USA
+TITLE:Director of Engineering
+TEL;TYPE=CELL:+1-805-259-6297
+TEL;TYPE=WORK:+1-805-259-6297
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:georged@ethirteen.com
+URL;TYPE=Digital Business Card:https://vcard.ethirteen.com/georged
+URL:https://www.ethirteen.com/
+URL;TYPE=Skype:skype:horhaydubois?chat
+URL;TYPE=Location:https://maps.app.goo.gl/hRXy3cBW8ViD9AXJA
+URL;TYPE=Website:https://www.ethirteen.com/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:"We are dedicated to designing and engineering cutting-edge solutions for off-road bicycle riders."—California | Germany | Taiwan | UK
+UID:EnBizCard-100288628
+END:VCARD
