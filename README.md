@@ -14,10 +14,10 @@ https://drive.google.com/drive/folders/1eC6oEeGwdQmy8WfO_CsTcT8PE-bXFroI
 
 
 Tips:
-# You can always access the personal page either with QRCode or the url formatted with https://vcard.ethirteen.com/name , ex: Yumi Lin => https://vcard.ethirteen.com/yumil
+### You can always access the personal page either with QRCode or the url formatted with https://vcard.ethirteen.com/name , ex: Yumi Lin => https://vcard.ethirteen.com/yumil
 
-# You can print the QRcode somewhere so users could access those cards without your phone. That could be used in the booth, event or office location.
+### You can print the QRcode somewhere so users could access those cards without your phone. That could be used in the booth, event or office location.
 
-# "Save Contact" in the personal page don't mean it will save contact directly into your phone. Further steps might be needed depending on phone brand or system using. 
+### "Save Contact" in the personal page don't mean it will save contact directly into your phone. Further steps might be needed depending on phone brand or system using. 
 For iphone, you need to scroll down to the bottom and choose "Create New Contact" or merge with existing contact.
 5-Step Guide to save contacts => https://storage.www.wrike.com/attachments/429094536?accountId=725771
